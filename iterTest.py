@@ -19,4 +19,5 @@ def taken(n,seq):
         pass
     return result
 
-
+if __name__=="__main__":
+	taken(5,[1,2,3,4,5])
